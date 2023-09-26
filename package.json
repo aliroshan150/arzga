@@ -8,7 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "build:arzga-core": "ng build @arzga/arzga-core",
-    "pack:arzga-core": "ng pack dist/arzga/arzga-core"
+    "pack:arzga-core": "npm pack dist/arzga/arzga-core"
   },
   "private": true,
   "dependencies": {
